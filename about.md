@@ -1,18 +1,23 @@
 ---
 layout: page
-title: About
+title: About Me
+id: id_about_me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![我是谁]({{ site.url }}/assets/images/my_photo.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+我的格言
+===
+> 成功来自平凡处，宁静以致远
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+自我介绍
+===
+Android程序员一枚，热爱数学，喜欢旅游和运动。梦想就是能坚持自己的兴趣爱好，将来能为世界做一点点贡献。
 
 
-[jekyll-organization]: https://github.com/jekyll
+联系方式
+===
+
+- github: [caihanyuan](https://github.com/caihanyuan)
+- Email:  [574583546@qq.com]()
